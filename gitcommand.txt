@@ -8,3 +8,5 @@
 * git reset(remove stage)
 * git add * (delete file not up to stage)
 * git reset --hard (delete file again add)
+* git rm two.txt -f(file delete)
+* git rm -r folderName(remove recursive folder)
