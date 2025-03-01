@@ -1,0 +1,10 @@
+* mkdir (folder name) — open new folder
+* cd folderName – into the folder
+* cd ../(out of folder)
+* touch fileName.ext—open new file
+* pwd folderPath
+* ls folderStatus
+* git add .(add all file to stage)
+* git reset(remove stage)
+* git add * (delete file not up to stage)
+* git reset --hard (delete file again add)
