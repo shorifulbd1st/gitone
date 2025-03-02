@@ -10,3 +10,6 @@
 * git reset --hard (delete file again add)
 * git rm two.txt -f(file delete)
 * git rm -r folderName(remove recursive folder)
+* git branch branchName(create a new branch)
+* git checkout branchName(switched to branch)
+* git touch(create new file) then git add. git commit -m"message" now if you switched main branch (remove development branch file)
